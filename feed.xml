@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archivio Abisso</title>
+    <link>https://flatch77.github.io/podcast/</link>
+    <atom:link href="https://flatch77.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Storie vere raccontate dall&#x27;inizio alla fine. Disastri, truffe e beffe, delitti, esplorazioni e pagine di storia, ricostruiti dalle fonti, in ordine, senza salti e senza inventare. Ogni episodio è un dossier: una vicenda intera, per chi vuole sapere com&#x27;è andata davvero. Testi e voce sono prodotti con l&#x27;aiuto dell&#x27;intelligenza artificiale, a partire da fonti pubbliche, e riletti prima della pubblicazione.</description>
+    <language>it</language>
+    <itunes:author>Archivio Abisso</itunes:author>
+    <itunes:summary>Storie vere raccontate dall&#x27;inizio alla fine. Disastri, truffe e beffe, delitti, esplorazioni e pagine di storia, ricostruiti dalle fonti, in ordine, senza salti e senza inventare. Ogni episodio è un dossier: una vicenda intera, per chi vuole sapere com&#x27;è andata davvero. Testi e voce sono prodotti con l&#x27;aiuto dell&#x27;intelligenza artificiale, a partire da fonti pubbliche, e riletti prima della pubblicazione.</itunes:summary>
+    <itunes:image href="https://flatch77.github.io/podcast/copertina.jpg"/>
+    <image><url>https://flatch77.github.io/podcast/copertina.jpg</url><title>Archivio Abisso</title><link>https://flatch77.github.io/podcast/</link></image>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Il disastro di Marcinelle</title>
+      <description>Serie Disastri. 8 agosto 1956, miniera del Bois du Cazier, Belgio. Un errore di manovra in fondo al pozzo accende un incendio che intrappola centinaia di minatori, molti dei quali italiani partiti con l&#x27;accordo «uomini in cambio di carbone». Le ore dei soccorsi, minuto per minuto, e quello che lasciarono.</description>
+      <itunes:summary>Serie Disastri. 8 agosto 1956, miniera del Bois du Cazier, Belgio. Un errore di manovra in fondo al pozzo accende un incendio che intrappola centinaia di minatori, molti dei quali italiani partiti con l&#x27;accordo «uomini in cambio di carbone». Le ore dei soccorsi, minuto per minuto, e quello che lasciarono.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-002-disastro-di-marcinelle/archivio-abisso-002-disastro-di-marcinelle.mp3" length="15525740" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-002-disastro-di-marcinelle</guid>
+      <pubDate>Fri, 02 Oct 2026 11:42:01 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/#ep2</link>
+      <itunes:duration>2588</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Disastri</itunes:keywords>
+    </item>
+    <item>
+      <title>Il naufragio del Vasa</title>
+      <description>Serie Disastri. Stoccolma, 10 agosto 1628: il Vasa, la nave più potente voluta dal re di Svezia, salpa davanti a tutta la città e affonda dopo poco più di un chilometro. Chi sapeva che era instabile, il processo senza colpevoli, e il ritorno a galla tre secoli dopo.</description>
+      <itunes:summary>Serie Disastri. Stoccolma, 10 agosto 1628: il Vasa, la nave più potente voluta dal re di Svezia, salpa davanti a tutta la città e affonda dopo poco più di un chilometro. Chi sapeva che era instabile, il processo senza colpevoli, e il ritorno a galla tre secoli dopo.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-001-naufragio-del-vasa/archivio-abisso-001-naufragio-del-vasa.mp3" length="23875004" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-001-naufragio-del-vasa</guid>
+      <pubDate>Fri, 02 Oct 2026 11:41:01 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/#ep1</link>
+      <itunes:duration>3979</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Disastri</itunes:keywords>
+    </item>
+  </channel>
+</rss>
