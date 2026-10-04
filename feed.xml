@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Archivio Abisso</title>
     <link>https://flatch77.github.io/podcast/</link>
@@ -21,7 +21,8 @@
       <enclosure url="https://archive.org/download/archivio-abisso-005-joshua-norton/archivio-abisso-005-joshua-norton.mp3" length="19095932" type="audio/mpeg"/>
       <guid isPermaLink="false">archivio-abisso-005-joshua-norton</guid>
       <pubDate>Sun, 04 Oct 2026 09:11:34 +0000</pubDate>
-      <link>https://flatch77.github.io/podcast/#ep5</link>
+      <link>https://flatch77.github.io/podcast/episodio/005-joshua-norton.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/005-joshua-norton.txt" type="text/plain" language="it"/>
       <itunes:duration>3183</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -36,7 +37,8 @@
       <enclosure url="https://archive.org/download/archivio-abisso-004-victor-lustig/archivio-abisso-004-victor-lustig.mp3" length="7913900" type="audio/mpeg"/>
       <guid isPermaLink="false">archivio-abisso-004-victor-lustig</guid>
       <pubDate>Sat, 03 Oct 2026 17:58:38 +0000</pubDate>
-      <link>https://flatch77.github.io/podcast/#ep4</link>
+      <link>https://flatch77.github.io/podcast/episodio/004-victor-lustig.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/004-victor-lustig.txt" type="text/plain" language="it"/>
       <itunes:duration>1319</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -51,7 +53,8 @@
       <enclosure url="https://archive.org/download/archivio-abisso-003-hiroo-onoda/archivio-abisso-003-hiroo-onoda.mp3" length="11520524" type="audio/mpeg"/>
       <guid isPermaLink="false">archivio-abisso-003-hiroo-onoda</guid>
       <pubDate>Sat, 03 Oct 2026 08:55:26 +0000</pubDate>
-      <link>https://flatch77.github.io/podcast/#ep3</link>
+      <link>https://flatch77.github.io/podcast/episodio/003-hiroo-onoda.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/003-hiroo-onoda.txt" type="text/plain" language="it"/>
       <itunes:duration>1920</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -66,7 +69,8 @@
       <enclosure url="https://archive.org/download/archivio-abisso-002-disastro-di-marcinelle/archivio-abisso-002-disastro-di-marcinelle.mp3" length="15525740" type="audio/mpeg"/>
       <guid isPermaLink="false">archivio-abisso-002-disastro-di-marcinelle</guid>
       <pubDate>Fri, 02 Oct 2026 11:42:01 +0000</pubDate>
-      <link>https://flatch77.github.io/podcast/#ep2</link>
+      <link>https://flatch77.github.io/podcast/episodio/002-disastro-di-marcinelle.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/002-disastro-di-marcinelle.txt" type="text/plain" language="it"/>
       <itunes:duration>2588</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -81,7 +85,8 @@
       <enclosure url="https://archive.org/download/archivio-abisso-001-naufragio-del-vasa/archivio-abisso-001-naufragio-del-vasa.mp3" length="23875004" type="audio/mpeg"/>
       <guid isPermaLink="false">archivio-abisso-001-naufragio-del-vasa</guid>
       <pubDate>Fri, 02 Oct 2026 11:41:01 +0000</pubDate>
-      <link>https://flatch77.github.io/podcast/#ep1</link>
+      <link>https://flatch77.github.io/podcast/episodio/001-naufragio-del-vasa.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/001-naufragio-del-vasa.txt" type="text/plain" language="it"/>
       <itunes:duration>3979</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
