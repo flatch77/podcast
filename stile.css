@@ -14,8 +14,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline:3px solid
 .strisce { height:10px; background:linear-gradient(90deg, #cc2a1e 0 25%, #e2812b 25% 50%, #e9bd2b 50% 75%, #2a5ca8 75% 100%); }
 
 /* la testata */
-.testata { position:sticky; top:0; z-index:20; background:rgba(20,20,20,.94);
-           backdrop-filter:blur(6px); border-bottom:1px solid var(--linea); }
+.testata { position:sticky; top:0; z-index:20; background:var(--fondo); border-bottom:1px solid var(--linea); }
 .testata-dentro { max-width:1120px; margin:0 auto; padding:10px 16px; display:flex; align-items:center; gap:16px; }
 .marchio { display:flex; align-items:center; gap:10px; text-decoration:none; margin-right:auto;
            font:900 1.05rem/1 "Arial Black", Helvetica, sans-serif; letter-spacing:.06em; text-transform:uppercase; }
@@ -137,7 +136,14 @@ audio { width:100%; margin-top:auto; }
 .piede { max-width:1120px; margin:0 auto; padding:24px 16px 48px; border-top:1px solid var(--linea);
          color:var(--grigio); font-size:.85rem; }
 
+.torna-su { position:fixed; right:18px; bottom:18px; z-index:30; cursor:pointer;
+            font:700 .9rem/1 Helvetica, Arial, sans-serif; color:var(--inchiostro); background:var(--giallo);
+            border:0; border-radius:999px; padding:12px 16px; box-shadow:0 6px 18px rgba(0,0,0,.45); }
+.torna-su:hover { filter:brightness(1.08); }
+.torna-su[hidden] { display:none; }
+
 @media (max-width:760px) {
+  .torna-su { right:12px; bottom:12px; padding:12px 14px; }
   .hamburger { display:block; }
   .menu { display:none; position:absolute; left:0; right:0; top:100%; flex-direction:column; align-items:stretch;
           background:var(--fondo); border-bottom:1px solid var(--linea); padding:8px 16px 16px; gap:2px; }
