@@ -7,6 +7,18 @@
     return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(x).padStart(2, "0");
   }
 
+  // «torna su»: compare dopo un po' di pagina, riporta in cima
+  var su = document.querySelector(".torna-su");
+  if (su) {
+    var calma = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var mostra = function () { su.hidden = window.scrollY < 900; };
+    window.addEventListener("scroll", mostra, { passive: true }); mostra();
+    su.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: calma ? "auto" : "smooth" });
+      var marchio = document.querySelector(".marchio"); if (marchio) marchio.focus({ preventScroll: true });
+    });
+  }
+
   // il menù su telefono
   var hamb = document.querySelector(".hamburger"), menu = document.getElementById("menu");
   if (hamb && menu) hamb.addEventListener("click", function () {
