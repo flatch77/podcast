@@ -14,6 +14,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Il furto della Gioconda dal Louvre</title>
+      <description>Serie Truffe, falsi e beffe. 21 agosto 1911: la Gioconda sparisce dal Louvre. Per due anni nessuno sa dove sia, mentre la polizia francese sospetta di tutti. La storia di Vincenzo Peruggia, l&#x27;uomo che la portò via, e del ritrovamento a Firenze.</description>
+      <itunes:summary>Serie Truffe, falsi e beffe. 21 agosto 1911: la Gioconda sparisce dal Louvre. Per due anni nessuno sa dove sia, mentre la polizia francese sospetta di tutti. La storia di Vincenzo Peruggia, l&#x27;uomo che la portò via, e del ritrovamento a Firenze.</itunes:summary>
+      <itunes:season>3</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-008-furto-della-gioconda/archivio-abisso-008-furto-della-gioconda.mp3" length="9472124" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-008-furto-della-gioconda</guid>
+      <pubDate>Tue, 06 Oct 2026 10:50:15 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/episodio/008-furto-della-gioconda.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/008-furto-della-gioconda.txt" type="text/plain" language="it"/>
+      <itunes:duration>1579</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Truffe, falsi e beffe</itunes:keywords>
+    </item>
+    <item>
       <title>Apollo 13</title>
       <description>Serie Esplorazioni e imprese. Aprile 1970: a metà strada verso la Luna un serbatoio esplode e la missione Apollo 13 diventa un salvataggio. Tre astronauti in una capsula che si raffredda e un intero centro di controllo che deve inventare, ora per ora, il modo di riportarli a casa.</description>
       <itunes:summary>Serie Esplorazioni e imprese. Aprile 1970: a metà strada verso la Luna un serbatoio esplode e la missione Apollo 13 diventa un salvataggio. Tre astronauti in una capsula che si raffredda e un intero centro di controllo che deve inventare, ora per ora, il modo di riportarli a casa.</itunes:summary>
