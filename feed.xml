@@ -14,6 +14,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Apollo 13</title>
+      <description>Serie Esplorazioni e imprese. Aprile 1970: a metà strada verso la Luna un serbatoio esplode e la missione Apollo 13 diventa un salvataggio. Tre astronauti in una capsula che si raffredda e un intero centro di controllo che deve inventare, ora per ora, il modo di riportarli a casa.</description>
+      <itunes:summary>Serie Esplorazioni e imprese. Aprile 1970: a metà strada verso la Luna un serbatoio esplode e la missione Apollo 13 diventa un salvataggio. Tre astronauti in una capsula che si raffredda e un intero centro di controllo che deve inventare, ora per ora, il modo di riportarli a casa.</itunes:summary>
+      <itunes:season>2</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-007-apollo-13/archivio-abisso-007-apollo-13.mp3" length="30556172" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-007-apollo-13</guid>
+      <pubDate>Tue, 06 Oct 2026 08:23:43 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/episodio/007-apollo-13.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/007-apollo-13.txt" type="text/plain" language="it"/>
+      <itunes:duration>5093</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Esplorazioni e imprese</itunes:keywords>
+    </item>
+    <item>
       <title>Il delitto Leopold e Loeb</title>
       <description>Serie Cronaca estera. Chicago, 1924: due studenti ricchi e brillanti decidono di commettere il delitto perfetto, solo per dimostrare di esserne capaci. La vittima è un ragazzo di quattordici anni. Le indagini, la confessione e il processo con l&#x27;arringa di Clarence Darrow.</description>
       <itunes:summary>Serie Cronaca estera. Chicago, 1924: due studenti ricchi e brillanti decidono di commettere il delitto perfetto, solo per dimostrare di esserne capaci. La vittima è un ragazzo di quattordici anni. Le indagini, la confessione e il processo con l&#x27;arringa di Clarence Darrow.</itunes:summary>
