@@ -14,6 +14,38 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>La fuga da Alcatraz del 1962</title>
+      <description>Serie Cronaca estera. Alcatraz era considerata la prigione da cui non si scappa. Nel giugno 1962 tre detenuti scavano con cucchiai, costruiscono teste finte e una zattera, e spariscono nella baia di San Francisco. Non sono mai stati ritrovati.</description>
+      <itunes:summary>Serie Cronaca estera. Alcatraz era considerata la prigione da cui non si scappa. Nel giugno 1962 tre detenuti scavano con cucchiai, costruiscono teste finte e una zattera, e spariscono nella baia di San Francisco. Non sono mai stati ritrovati.</itunes:summary>
+      <itunes:season>6</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-016-fuga-da-alcatraz-1962/archivio-abisso-016-fuga-da-alcatraz-1962.mp3" length="14032892" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-016-fuga-da-alcatraz-1962</guid>
+      <pubDate>Sun, 11 Oct 2026 14:40:07 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/episodio/016-fuga-da-alcatraz-1962.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/016-fuga-da-alcatraz-1962.txt" type="text/plain" language="it"/>
+      <itunes:duration>2339</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Cronaca estera</itunes:keywords>
+    </item>
+    <item>
+      <title>Il naufragio dell&#x27;Andrea Doria</title>
+      <description>Serie Disastri. Luglio 1956: l&#x27;Andrea Doria, orgoglio della marina italiana, viene speronata nella nebbia davanti a Nantucket dalla nave svedese Stockholm. Le ore del salvataggio di centinaia di passeggeri, una delle più grandi operazioni di soccorso in mare, e le domande dell&#x27;inchiesta.</description>
+      <itunes:summary>Serie Disastri. Luglio 1956: l&#x27;Andrea Doria, orgoglio della marina italiana, viene speronata nella nebbia davanti a Nantucket dalla nave svedese Stockholm. Le ore del salvataggio di centinaia di passeggeri, una delle più grandi operazioni di soccorso in mare, e le domande dell&#x27;inchiesta.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-015-naufragio-andrea-doria/archivio-abisso-015-naufragio-andrea-doria.mp3" length="22746044" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-015-naufragio-andrea-doria</guid>
+      <pubDate>Sun, 11 Oct 2026 14:40:01 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/episodio/015-naufragio-andrea-doria.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/015-naufragio-andrea-doria.txt" type="text/plain" language="it"/>
+      <itunes:duration>3791</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Disastri</itunes:keywords>
+    </item>
+    <item>
       <title>Il disastro del Vajont</title>
       <description>Serie Disastri. 9 ottobre 1963: una frana enorme si stacca dal monte Toc e precipita nel lago della diga del Vajont. L&#x27;onda scavalca la diga, che resta in piedi, e in pochi minuti cancella Longarone. Una storia di allarmi inascoltati, di chi sapeva e di chi decise di andare avanti.</description>
       <itunes:summary>Serie Disastri. 9 ottobre 1963: una frana enorme si stacca dal monte Toc e precipita nel lago della diga del Vajont. L&#x27;onda scavalca la diga, che resta in piedi, e in pochi minuti cancella Longarone. Una storia di allarmi inascoltati, di chi sapeva e di chi decise di andare avanti.</itunes:summary>
