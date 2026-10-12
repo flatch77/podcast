@@ -14,6 +14,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Le bestie di Satana</title>
+      <description>Serie Cronaca italiana. Nel varesotto, alcuni ragazzi scompaiono e una serie di morti resta per anni senza spiegazione. Poi un nuovo delitto riapre tutto: la storia del gruppo che i giornali chiamarono «le bestie di Satana», e delle indagini che ricostruirono il passato.</description>
+      <itunes:summary>Serie Cronaca italiana. Nel varesotto, alcuni ragazzi scompaiono e una serie di morti resta per anni senza spiegazione. Poi un nuovo delitto riapre tutto: la storia del gruppo che i giornali chiamarono «le bestie di Satana», e delle indagini che ricostruirono il passato.</itunes:summary>
+      <itunes:season>5</itunes:season>
+      <enclosure url="https://archive.org/download/archivio-abisso-017-bestie-di-satana/archivio-abisso-017-bestie-di-satana.mp3" length="17820380" type="audio/mpeg"/>
+      <guid isPermaLink="false">archivio-abisso-017-bestie-di-satana</guid>
+      <pubDate>Mon, 12 Oct 2026 07:06:58 +0000</pubDate>
+      <link>https://flatch77.github.io/podcast/episodio/017-bestie-di-satana.html</link>
+      <podcast:transcript url="https://flatch77.github.io/podcast/testo/017-bestie-di-satana.txt" type="text/plain" language="it"/>
+      <itunes:duration>2970</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Cronaca italiana</itunes:keywords>
+    </item>
+    <item>
       <title>La fuga da Alcatraz del 1962</title>
       <description>Serie Cronaca estera. Alcatraz era considerata la prigione da cui non si scappa. Nel giugno 1962 tre detenuti scavano con cucchiai, costruiscono teste finte e una zattera, e spariscono nella baia di San Francisco. Non sono mai stati ritrovati.</description>
       <itunes:summary>Serie Cronaca estera. Alcatraz era considerata la prigione da cui non si scappa. Nel giugno 1962 tre detenuti scavano con cucchiai, costruiscono teste finte e una zattera, e spariscono nella baia di San Francisco. Non sono mai stati ritrovati.</itunes:summary>
